@@ -33,3 +33,7 @@ To run distributed model training on 1-5 GPUs, you can run the command:
 CUDA_VISIBLE_DEVICES=0,1,2,3,4 python run.py
 ```
 
+To run model inference, you can run the command: 
+```
+python inference.py
+```
